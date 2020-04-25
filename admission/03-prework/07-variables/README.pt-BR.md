@@ -1,8 +1,8 @@
 # Variáveis
 
-- Tipo: `lectura`
-- Formato: `self-paced`
-- Duración: `60min`
+- Tipo: `leitura`
+- Formato: `individual`
+- Duração: `60min`
 
 ## Objetivos de Aprendizagem
 
@@ -11,7 +11,7 @@
 
 ***
 
-O texto a continuação se baseia principalmente, com algumas modificações, no
+O texto a seguir se baseia principalmente, com algumas modificações, no
 capítulo 2 de [Eloquent JavaScript](http://eloquentjavascript.net/),de Marijn
 Haverbeke, 2014. Tradução em
 [Português](http://braziljs.github.io/eloquente-javascript/chapters/valores-tipos-operadores).
@@ -69,12 +69,12 @@ isso que a console simplesmente devolve `undefined` (no restante dos exemplos
 vamos a omitir esse `undefined` devolvido porque não adiciona muito valor na
 explicação).
 
-Depois que uma variável tem sido definida, o nome dela pode ser usada como uma
+Depois que uma variável é definida, o nome dela pode ser usada como uma
 _expressão_. O valor da expressão é o valor que a variável contém atualmente.
 Continuemos com o exemplo anterior:
 
 ```js
-// declaramos `age` usando `const` ja que não vamos reatribuir está variável.
+// declaramos `age` usando `const` já que não vamos reatribuir esta variável.
 const age = 19;
 'Oi, meu nome é' + 'Rafael' + 'e tenho' + age + 'anos';
 // returns "Oi, meu nome é Rafael e tenho 19 anos"
@@ -166,7 +166,7 @@ Vamos ver alguns exemplos:
 
 | Nome ruim | Problema | Nome melhor
 | ------------| -------- | ------------
-| age of fiends | Erro: contém espaços | ageOfFriends
+| age of friends | Erro: contém espaços | ageOfFriends
 | null | Erro: palavra chave (keyword) | empty
 | 1stName | Erro: começa com número | firstName
 | full.price | Erro: contém "." | fullPrice
@@ -245,7 +245,7 @@ balloons
 
 ## O escopo de uma variável
 
-O _scopo_ de uma variável é o local onde ela pode ser encontrada. Por exemplo:
+O _escopo_ de uma variável é o local onde ela pode ser encontrada. Por exemplo:
 
 ```js
 const foo = () => {
@@ -318,14 +318,14 @@ Fundamentalmente, o alcance é um conceito associado a funções enquanto que o
 contexto é associado ao objeto. Em outras palavras, o alcance se refere a
 acessibilidade de variável de uma função quando é chamada e é única para cada
 invocação. Em contraste, o contexto é sempre o mesmo valor chamado de `this`
-cuja a referência é sempre o objecto que está executando o código.
+cuja referência é sempre o objeto que está executando o código.
 
 ### Alcance de variáveis
 
 As variáveis podem ser declaradas com **alcance local** ou **alcance global**, o
 qual estabelece a sua acessibilidade de diferentes alcances no tempo de
 execução. Qualquer variável definida como global será acessível no tempo de
-execução em qualquer alcance, desde que tenha sido declarado fora do corpo de um
+execução em qualquer alcance, desde que tenha sido declarado fora do corpo de uma
 função.
 
 Em contraste, as variáveis locais existem somente dentro do corpo de uma função
@@ -339,7 +339,7 @@ pode  ser inicializada com algum valor e permite ser reatribuída (diferente de
 `const`).
 
 O alcance da `let` é local ao bloco, a declaração ou expressão onde se está
-usando. O que diferencia a palavra `let` da palavra `var`, a qual defini a
+usando. O que diferencia a palavra `let` da palavra `var`, a qual define a
 variável global ou local em uma função sem se importar com o escopo de bloco.
 
 Vejamos alguns exemplos:
@@ -351,7 +351,7 @@ if (x > y) {
 }
 ```
 
-No exemplo a cima, `gama` existe apenas dentro do escopo do `if`.
+No exemplo acima, `gama` existe apenas dentro do escopo do `if`.
 
 ```js
 for (let i = 0; i < students.length; i++) {
@@ -395,7 +395,7 @@ do `if` se mantem dentro do seu escopo.
 
 As variáveis somente de leitura são outra novidade do ECMAScript 6, com a
 introdução da nova palavra reservada `const`. Qualquer variável declarada como
-constatante não poderá ser reatribuída.
+constante não poderá ser reatribuída.
 
 Vejamos o exemplo:
 
@@ -408,7 +408,7 @@ Vejamos o exemplo:
 ```
 
 Neste exemplo vemos que desde o momento que declaramos a constante `hello`, seu
-valor foi blindado e o interpretado lançará um erro quanto tentar reatribuir um
+valor foi blindado e o interpretador lançará um erro quanto tentar reatribuir um
 novo valor.
 
 ```js
