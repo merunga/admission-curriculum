@@ -188,19 +188,20 @@ e o JavaScript criará um _string value_ a partir do conteúdo entre elas.
 
 Podemos usar tanto aspas simples (`'`) como duplas (`"`) para delimitar
 nossas strings mas, por convenção, normalmente em cada projeto se escolhe
-usar uma ou a outra e tomamos cuidado para ser consistentes. Isso ajuda na _clareza_ e
-_manutenção_ do código no longo prazo. No nosso caso, vamos escolher as aspas simples daqui pra frente..
+usar uma ou a outra e tomamos cuidado para ser consistentes. Isso ajuda na
+_clareza_ e _manutenção_ do código no longo prazo. No nosso caso, vamos escolher
+as aspas simples daqui pra frente.
 
 ***
 
 Existe um par de caracteres em `strings` que tem um comportamento especial. Por
 exemplo, quando uma barra invertida (_backslash_ -`\`) se encontra dentro de um
 texto entre aspas, isso indica que o próximo caractere tem um significado
-especial. Chamamos isso de _escapar caractere_. Quando o caractere `n` vem depois de uma
-barra invertida, o par de caracteres é interpretado como uma nova linha. Da
-mesma forma, um `t` após a barra invertida indica uma tabulação. Escreva os
-seguintes textos em seu console (lembre-se de sempre colocá-los entre aspas,
-simples ou duplas).
+especial. Chamamos isso de _escapar caractere_. Quando o caractere `n` vem
+depois de uma barra invertida, o par de caracteres é interpretado como uma nova
+linha. Da mesma forma, um `t` após a barra invertida indica uma tabulação.
+Escreva os seguintes textos em seu console (lembre-se de sempre colocá-los entre
+aspas, simples ou duplas).
 
 ```js
 'Esta é a primeira linha \n E esta a segunda'

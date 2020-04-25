@@ -68,8 +68,8 @@ No próximo vídeo, você será guiada através dos seguintes passos para criar 
 primeira página web:
 
 1. Baixar o Visual Studio Code, um editor de texto: [Baixe VSC
-   aqui](https://code.visualstudio.com/). Existem versões para Mac, Windows e Linux. Se
-   desejar pode também baixar um editor de texto chamado Atom:
+   aqui](https://code.visualstudio.com/). Existem versões para Mac, Windows e
+   Linux. Se desejar pode também baixar um editor de texto chamado Atom:
    [Baixar](https://atom.io/).
 2. Crie um arquivo HTML chamado `index.html`.
 3. Escreva alguns elementos no arquivo HTML (por exemplo: um título `<h1>` e um
