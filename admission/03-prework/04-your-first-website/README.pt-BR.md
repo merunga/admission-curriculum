@@ -6,10 +6,10 @@
 
 ## Objetivos de aprendizagem
 
-- Entender o papel que o tem HTML de criar a estrutura básica de uma página web.
-- Conhecer os pricipais elementos e tags HTML
-- Aprender a dar dinamismo a uma página web usando JavaScript
-- Ter uma aproximação ao mundo do código, criando seu primeiro site web
+- Entender o papel que o HTML tem de criar a estrutura básica de uma página web.
+- Conhecer os pricipais elementos e tags HTML.
+- Aprender a dar dinamismo a uma página web usando JavaScript.
+- Ter uma aproximação ao mundo do código, criando seu primeiro web site.
 
 ***
 
@@ -22,7 +22,7 @@ de Marijn Haverbeke, 2014.
 ## HTML: HyperText Markup Language
 
 HTML (HyperText Markup Language) é uma linguagem utilizada para criar a
-estrutura de um site web. Para criar esse site, começamos criando um arquivo em
+estrutura de um web site. Para criar esse site, começamos criando um arquivo em
 formato HTML. Isto é muito parecido com criar um arquivo com formato word, excel
 ou powerpoint.
 
@@ -42,7 +42,7 @@ explicaremos passo a passo mais abaixo):
 </html>
 ```
 
-Ao abrir este mesmo arquivo HTML em um navegadro (como Chrome), se vê o
+Ao abrir este mesmo arquivo HTML em um navegador (como Chrome), se vê o
 seguinte:
 
 ![Visualização no Chrome](https://user-images.githubusercontent.com/11894994/57495168-425ae680-72a3-11e9-96e2-7f1d33a7865c.png)
@@ -50,7 +50,7 @@ seguinte:
 O navegador "lê" o arquivo HTML (o texto e as tags que estão dentro) e o
 apresenta segundo as regras da linguagem. Por exemplo, os textos que estão
 dentro das tags `<h1> </h1>` são considerados cabeçalhos ou títulos, enquanto os
-textos que dentro da etiqueta `<p> </p>` são considerados parágrafos. Por isso,
+textos que estão dentro da etiqueta `<p> </p>` são considerados parágrafos. Por isso,
 o texto _Olá Mundo!_ é visualizado muito maior que o texto _Esta é minha
 primeira página Web._
 
@@ -68,14 +68,14 @@ No próximo vídeo, você será guiada através dos seguintes passos para criar 
 primeira página web:
 
 1. Baixar o Visual Studio Code, um editor de texto: [Baixe VSC
-   aqui](https://code.visualstudio.com/). Existem versões para Mac e Windows. Se
+   aqui](https://code.visualstudio.com/). Existem versões para Mac, Windows e Linux. Se
    desejar pode também baixar um editor de texto chamado Atom:
-   [Baixar](https://atom.io/)
-2. Crie um arquivo HTML chamado `index.html`
+   [Baixar](https://atom.io/).
+2. Crie um arquivo HTML chamado `index.html`.
 3. Escreva alguns elementos no arquivo HTML (por exemplo: um título `<h1>` e um
-   parágrafo `<p>`)
-4. Salve o arquivo HTML
-5. Abra o arquivo HTML em um navegador como o Chrome
+   parágrafo `<p>`).
+4. Salve o arquivo HTML.
+5. Abra o arquivo HTML em um navegador como o Chrome.
 
 Aqui o vídeo:
 
@@ -111,7 +111,7 @@ Vamos dar uma passada por todos os elementos do nosso arquivo:
    primeira página Web". É importante que notemos que o elemento `title` está
    _contido_ dentro do elemento `head`, o qual, por sua vez, está _contido_
    dentro do elemento `html`.
-5. Finalmente temos o elemento `body` que _contem_ o conteúdo que se mostrará no
+5. Finalmente temos o elemento `body` que _contém_ o conteúdo que se mostrará no
    navegador. Neste caso, dentro do body temos dois elementos adicionais: o `h1`
    (cabeçalho) e o `p` (parágrafo).
 
@@ -121,8 +121,8 @@ hora de regressar ao JavaScript.
 ## HTML e JavaScript
 
 É importante que você entenda que HTML _**não**_ é uma `linguagem de
-porgramação`, mas sim uma `linguaguem de marcação`. Como já vimos, com HTML
-damos uma estrutura a nosso site. No entanto, se queremos dar a ele
+programação`, mas sim uma `linguaguem de marcação`. Como já vimos, com HTML
+damos uma estrutura ao nosso site. No entanto, se queremos dar a ele
 _comportamento_ ou _interação_, necessitamos usar uma `linguagem de
 programação`. E a **única linguagem de programação que roda nos navegadores web
 é o JavaScript**. Com JavaScript conseguimos que os sites possam responder as
@@ -169,17 +169,17 @@ interação ao seu site.
 
 Os passos são os seguintes:
 
-1. Inclua o elemento `script` ao final do `body` de teu arquivo HTML
+1. Inclua o elemento `script` ao final do `body` do seu arquivo HTML.
 2. Dentro do HTML, entre as etiquetas de íncio e fechamento do elemento
    `script`, escreva uma linha de código JavaScript (por exemplo, algo com
-   `alert()`, `document.write()` ou `prompt()`)
-3. Salve o arquivo HTML
-4. Atualize a página de seu navegador onde está carregado o arquivo HTML
+   `alert()`, `document.write()` ou `prompt()`).
+3. Salve o arquivo HTML.
+4. Atualize a página de seu navegador onde está carregado o arquivo HTML.
 5. Crie um novo arquivo chamado `app.js` na mesma pasta onde está o seu
-   HTML
-6. Inclua no atributo `src` ao elemtento `script` com o caminho do arquivo
-   `app.js`
-7. Passe todo o código JavaScript do arquivo HTML para o arquivo JS
+   HTML.
+6. Inclua o atributo `src` ao elemento `script` com o caminho do arquivo
+   `app.js`.
+7. Passe todo o código JavaScript do arquivo HTML para o arquivo JS.
 8. Atualize a página do naveador e confirme se tudo funciona exatamente como
    antes.
 
