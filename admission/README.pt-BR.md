@@ -48,7 +48,7 @@ así como entregables y método de evaluación.
 
 ## Syllabus
 
-### Unidad 01: [Linha de base](01-baseline)
+### Unidad 01: [Questionário de dados pessoais](01-baseline)
 
 Complete os seus dados pessoais. Para nós é muito importante ter seus dados para
 te conhecer melhor e identificar se você tem o perfil que buscamos nos nossos
