@@ -14,26 +14,25 @@ Laboratória, que é o ponto de partida ideal para aprender a programar. Aqui
 começamos do zero ensinando os fundamentos do JavaScript, que é a linguagem de
 programação mais popular para a Web.
 
-Este curso é um passo fundamental no processo de seleção porque vai permitir-nos
+Esta fase é um passo fundamental no processo de seleção porque vai permitir-nos
 verificar seu interesse em tecnologia, bem como o seu compromisso com o
 programa. Além disso, analisaremos a sua capacidade de aprender sozinha e de
 forma independente.
 
-A duração aproximada do curso é de 15-20 horas. Você pode avançar conforme o seu
-ritmo, mas recomendamos que organize o seu tempo para fazer gradualmente. A
-equipe da Laboratória te avisará sobre a data de conclusão do pré-trabalho. Não
-esqueça de anotá-la.
+A duração aproximada desta fase é de 15-20 horas. Você pode avançar conforme o
+seu ritmo, mas recomendamos que organize o seu tempo para fazer gradualmente.
 
 Para passar para a próxima etapa do processo de seleção é preciso completar todo
 o pré-trabalho. As candidatas que demonstrarem maior empenho e potencial para
-aprender, serão convidadas a iniciar o período de pré-admissão, no qual
+aprender serão convidadas a iniciar o período de pré-admissão, no qual
 continuaremos com este curso de forma presencial. Será uma boa oportunidade para
 mostrar o que você já domina e sabe fazer.
 
 ## Acompanhamento e pontos de apoio
 
 Lembre-se de que você não está sozinha neste processo. Vamos acompanhá-la em
-cada etapa através de vários canais.
+cada etapa através de vários canais. Vale ressaltar que não podemos ajudar na
+resolução dos exercícios.
 
 <!-- ### 1. Grupo Facebook
 
@@ -46,38 +45,29 @@ candidatas, com a ajuda da equipe de professores Laboratória.
 ### 1. Ajuda
 
 Na seção de Ajuda, você encontrará "Perguntas e Respostas Frequentes" que
-poderão te guiar caso tenha dúvidas. Se a seção de "Perguntas e Respostas
-Frequentes", não solucionar suas perguntas, você poderá entrar em contato com a
-equipe por meio do formulário no final da seção. Uma vez completo o formulário,
-nós entraremos em contato através do e-mail para te ajudar.
+poderão te guiar caso tenha dúvidas. Há também um grupo no Facebook em que há
+bastante discussão sobre o pré-trabalho. Lá você pode conhecer outras
+candidatas, alunas e graduadas.
 
 ### 2. E-mail
 
-Se não conseguir responder às suas perguntas e precisar da ajuda de nossa equipe
-de formação ou de seleção, você poderá entrar em contato por meio dos dados de
-contato da sede.
+Se não conseguir responder às suas perguntas e precisar da ajuda de nossa
+equipe, envie um e-mail para:
 
-Tente usar esta opção como último recurso, porque quanto mais e-mails recebemos,
-mais demoramos a responder.
-
-Contatos da sede:
-
-- infosp@laboratoria.la
-- Whatsapp: 11 94067 3333
+- infosp@laboratoria.la.
 
 ## Sobre este curso
 
 ### Objetivo do curso
 
-Este curso é destinado à pessoas sem conhecimento prévio de programação, que têm
-interesse em se aventurar no mundo da tecnologia. Ele será o seu primeiro passo
-no caminho de aprendizagem.
+Este curso é destinado a pessoas sem conhecimento prévio de programação, que
+tenham interesse em se aventurar no mundo da tecnologia. Ele será o seu primeiro
+passo no caminho de aprendizagem.
 
-O objetivo deste curso é lhe dar uma ideia do que se trata o mundo do
-desenvolvimento de software, para que possa determinar se é algo que você ama
-exercer como profissão. Depois de completar este curso você vai saber se a
-programação é algo que você gosta e terá uma boa base para o desenvolvimento de
-sua carreira no mundo da tecnologia.
+O objetivo deste curso é lhe dar uma ideia do que se trata o mundo da
+programação para que possa determinar se é algo que você ama. Depois de
+completar este curso você terá uma boa base para o desenvolvimento de sua
+carreira no mundo da tecnologia.
 
 ### Objetivos de aprendizagem
 

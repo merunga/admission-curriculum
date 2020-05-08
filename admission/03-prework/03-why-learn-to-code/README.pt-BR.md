@@ -25,7 +25,7 @@ computadores estão sendo usados para criar carros autônomos (que dirigem
 sozinhos), mundos inteiros de realidade virtual e robôs com inteligência
 artificial.
 
-Mas no fundo, os computadores são realmente muito bobos. Computadores só podem
+Mas, no fundo, os computadores são realmente muito bobos. Computadores só podem
 fazer _exatamente_ o que nós, seres humanos, dizemos a eles. Nós dizemos como
 eles devem se comportar usando `programas de computação`, que são simplesmente
 um conjunto de instruções para os computadores seguirem. Sem programas, os
@@ -37,7 +37,7 @@ conjunto de instruções que mostram a um computador como executar uma tarefa.
 A programação é um espaço para criar. É uma forma de expressão, assim como a
 arte e o desenho. É um mecanismo para transformar seus pensamentos em algo vivo
 que todos possam ver e com quem possam interagir. Como Steve Jobs, um dos
-gigantes do mundo da tecnologia disse:
+gigantes do mundo da tecnologia, disse:
 
 > "Todo mundo neste país deveria aprender a programar um computador, porque ele
 > ensina você a pensar"
@@ -49,7 +49,7 @@ pelo mercado. Seguem três dados do mercado de trabalho para os programadores:
 
 1. Programador de software é a carreira que irá promover o crescimento da América
    Latina na próxima década. De acordo com estimativas, a região terá uma
-   necessidade para os programadores de 1,25 milhões em 2025.
+   necessidade para os programadores de 1,25 milhão em 2025.
 2. Os desenvolvedores Web e desenvolvedores de software estão entre as
    profissões mais bem pagas na América Latina.
 3. Os empregos de tecnologia não são apenas no setor de tecnologia. Atualmente
@@ -59,8 +59,8 @@ pelo mercado. Seguem três dados do mercado de trabalho para os programadores:
 
 ## Histórias de ex-alunas da Laboratória
 
-As estudantes da Laboratória usam o programa como ferramenta de transformação.
-75% das alunas encontram empregos e triplicam sua renda. Aqui algumas estórias
+As estudantes da Laboratória usam o bootcamp como ferramenta de transformação.
+85% das alunas encontram empregos e triplicam sua renda. Aqui algumas estórias
 de sucesso:
 
 Sandra (México)
@@ -72,7 +72,7 @@ Sandra (México)
 
 Danna (Chile)
 
-> Danna tem 26 anos e com as dificuldades econômicas não pode terminar a sua
+> Danna tem 26 anos e com as dificuldades econômicas não pôde terminar a sua
 > faculdade. Antes de se juntar a Laboratória, trabalhava em um call center. Seu
 > primeiro trabalho como desenvolvedora foi em lógica. Hoje trabalha na
 > ThoughtWorks, empresa que fez seu salário triplicar e que a levou para a Índia
@@ -82,13 +82,13 @@ Carol (Peru)
 
 > Carol estudou por três anos Design Gráfico Publicitário. Antes da Laboratória,
 > trabalhou longas horas, seis dias por semana para sustentar o seu filho. Hoje
-> Carol trabalha como desenvolvedora web em 54 solutions, uma agência de mídia
+> Carol trabalha como desenvolvedora web na 54 solutions, uma agência de mídia
 > digital com um ambiente de trabalho positivo e ganha mais do que nunca.
 
 ## O que é JavaScript?
 
-Computadores são tão bobos que não podemos dar nossas instruções em Inglês,
-Espanhol ou qualquer outra língua falada. Nós temos que escrever nossos programas
+Computadores são tão bobos que não podemos dar nossas instruções em inglês,
+espanhol ou qualquer outra língua falada. Nós temos que escrever nossos programas
 em uma `linguagem de programação`. JavaScript é exatamente isso: uma linguagem
 de programação.
 
@@ -96,7 +96,7 @@ Você pode não ter ouvido falar de JavaScript antes, mas certamente você já u
 JavaScript é usado para escrever programas que são executados em **páginas da
 internet**. Ele controla como uma página da internet é vista ou faz a página
 responder quando um usuário clica em um botão ou move o mouse. Sites como Gmail,
-Facebook e Twitter usam o JavaScript para facilitar o envio de e-mail, postagens,
+Facebook e Twitter usam JavaScript para facilitar o envio de e-mail, postagens,
 comentários ou a navegação em sites.
 
 ## Por que JavaScript?
@@ -107,7 +107,7 @@ para aprender JavaScript. Por um lado, é muito mais fácil (e mais divertido) d
 aprender que muitas outras linguagens de programação. Mas talvez o melhor de
 tudo é que para escrever e executar programas em JavaScript, tudo que você
 precisa é um navegador web. Um navegador web é o que você usa para navegar na
-internet. Por exemplo, o que você usa para abrir o Facebook ou o Google ou
+internet. Por exemplo, o que você usa para abrir o Facebook, o Google ou
 Wikipedia em seu computador. Os navegadores mais populares são: Google Chrome,
 Safari, Mozilla Firefox e Internet Explorer. Cada navegador web vem com um
 _interpretador_ de JavaScript que entende como ler os programas de JavaScript.
@@ -124,7 +124,7 @@ linguagem mais popular nesta plataforma:
 JavaScript foi criado (em apenas 10 dias!) por [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich),
 em 1995, para criar interatividade e dinamismo no Netscape Navigator, um dos
 primeiros navegadores web. Desde então, o JavaScript tem sido adotado pela maioria
-dos navegadores modernos (pense Chrome, Safari, etc.). E por muitos anos o
+dos navegadores modernos (Chrome, Safari, etc.). E por muitos anos o
 JavaScript foi usado apenas dentro do navegador. No entanto, hoje em dia o
 JavaScript é usado também _fora_ do navegador, para criar qualquer tipo de
 coisa. As aplicações JavaScript são quase infinitas - o que a torna uma

@@ -23,8 +23,8 @@ deste módulo, espero que não só compreenda este conceito, mas que adote uma
 mentalidade de crescimento que permita que você enfrente os desafios de aprender
 algo novo e ter a confiança de saber que você pode superá-los.
 
-A maioria das pessoas acreditam que a inteligência é uma capacidade mental com a
-qual nascemos, que é estático e não pode mudar. Esta crença nos leva a pensar
+A maioria das pessoas acredita que a inteligência é uma capacidade mental com a
+qual nascemos, que é estática e não pode mudar. Esta crença nos leva a pensar
 que a nossa inteligência é limitada e há coisas que simplesmente não podemos
 aprender.
 
@@ -34,12 +34,12 @@ palavras, nós mesmas podemos controlar e desenvolver a nossa inteligência.
 
 Há 30 anos, Carol Dweck, uma psicóloga americana, começou a investigar e
 comparar a forma como estas diferentes crenças podiam levar as pessoas a obter
-resultados diferentes quando confrontados com um desafio de aprendizagem. Depois
+resultados diferentes quando confrontadas com um desafio de aprendizagem. Depois
 de várias investigações, ela criou os termos Fixed mindset e Growth mindset, ou
 seja, mentalidade fixa e mentalidade de crescimento, para descrever ambos os
 tipos de crenças.
 
-Através de seus estudos em diferentes escolas nos EUA,  ela descobriu que quando
+Por meio de seus estudos em diferentes escolas nos EUA,  ela descobriu que quando
 os alunos acreditam que podem conseguir, a sua inteligência se desenvolve. Assim
 eles estão dispostos a fazer mais, porque eles entendem que vão conseguir algo
 melhor e maior.
@@ -51,24 +51,24 @@ experiências que as pessoas acumulam. Com a prática, redes neurais estão
 crescendo e criando novas conexões. Isso significa que você pode aumentar o
 crescimento de suas redes neurais com ações, como fazer perguntas, ler, praticar
 uma e outra vez algo que você acha difícil e manter bons hábitos alimentares e
-do sono.
+de sono.
 
 Graças a estas novas descobertas científicas, muitos pesquisadores estão
 começando a entender a conexão entre tipos de mentalidades e possibilidades de
 realização. Os estudos de Carol Dweck têm mostrado que, se você acha que o seu
 cérebro pode crescer, então o seu comportamento é diferente do que se você acha
 que você nasceu com uma inteligência fixa. Por exemplo, um aluno com uma
-mentalidade fixa, terá como objetivo mostrar um desempenho perfeito, por isso
+mentalidade fixa terá como objetivo mostrar um desempenho perfeito, por isso
 vai preferir realizar apenas atividades que sabe que pode conseguir, e assim se
 achar inteligente. Em vez disso, um estudante com uma mentalidade para o
-crescimento, vai se sentir mais confortável em enfrentar os desafios que não
+crescimento vai se sentir mais confortável em enfrentar os desafios que não
 necessariamente conhece, porque ele sabe que estes desafios permitirão aprender
 mais.
 
 **Ter uma mentalidade de crescimento significa entender que você pode
 desenvolver e aumentar sua inteligência e suas habilidades e que você não tem
 medo de desafios. Isso significa que você sabe que a melhor maneira de aprender
-é se esforçando e, portanto, está disposto a cometer erros no processo.**
+é se esforçando e, portanto, está disposta a cometer erros no processo.**
 
 Veja este vídeo sobre a mentalidade de crescimento (10 min)
 
@@ -98,7 +98,7 @@ seu processo de aprendizagem:
    esforço. As lições fáceis são lembradas hoje, mas não amanhã. Quando a
    aprendizagem é mais difícil, é mais forte e permanece em sua memória por mais
    tempo.
-2. Tentar resolver um problema antes que te mostrem a resposta, permite que você
+2. Tentar resolver um problema antes que te mostrem a resposta permite que você
    aprenda e compreenda a solução quando te ensinarem.
 3. Cometer erros e corrigí-los vai te permitir construir pontes para avançar no
    processo de aprendizagem.
