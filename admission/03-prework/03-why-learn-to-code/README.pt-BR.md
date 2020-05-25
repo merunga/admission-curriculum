@@ -139,7 +139,7 @@ seu navegador e siga os passos que Thaissa apresenta no próximo vídeo.
 Thaissa irá mostrar como escrever JavaScript e como fazer coisas legais com seu
 computador, usando apenas o navegador.
 
-[![JS NO NAVEGADOR](https://i.ytimg.com/vi/vOMPVz22E2s/0.jpg)](https://youtu.be/vOMPVz22E2s)
+[![Inicio com JS](https://i.ytimg.com/vi/vOMPVz22E2s/0.jpg)](https://youtu.be/DQu3FVk4A70)
 
 ## JavaScript != Java
 

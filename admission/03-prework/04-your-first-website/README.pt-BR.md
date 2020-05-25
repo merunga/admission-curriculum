@@ -62,7 +62,7 @@ de você mesma criar uma página web e aprender HTML.
 A seguir um vídeo que explica o porquê você precisa de um editor de texto para
 os exercícios:
 
-[![Editor de texto intro](https://embed-ssl.wistia.com/deliveries/8cff57d37f73a74a557d246050d583027af215ce.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/37gb5iondx?wvideo=37gb5iondx)
+[![Sua primeira página Web - part 1](https://i9.ytimg.com/vi/96usU1K0gwY/mq1.jpg?sqp=CLe5sPYF&rs=AOn4CLCOeDe8vrqppRmSllfVDHwJYNHvlA)](https://youtu.be/96usU1K0gwY)
 
 No próximo vídeo, você será guiada através dos seguintes passos para criar sua
 primeira página web:
@@ -79,7 +79,7 @@ primeira página web:
 
 Aqui o vídeo:
 
-[![Minha primeira HTML Web](https://embed-ssl.wistia.com/deliveries/5965a3abc9c483a990a081c16a199ce6ea2d70ce.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/u3xr67d4he?wvideo=u3xr67d4he)
+[![Sua primeira página Web - part 2](https://i9.ytimg.com/vi/OR0tpt3zftA/mq1.jpg?sqp=CN-9sPYF&rs=AOn4CLCuN2xJqK_F8u_2CSzQiF_2Yl5jPg)](https://youtu.be/OR0tpt3zftA)
 
 ## Tags e elementos HTML
 
@@ -185,4 +185,4 @@ Os passos são os seguintes:
 
 A seguir o vídeo:
 
-[![Minha primeira HTML Web](https://embed-ssl.wistia.com/deliveries/b01097fed7f8868ca3f815a940ab9761551e3d78.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/c7dis0vp80?wvideo=c7dis0vp80)
+[![Sua primeira página Web - part 3](https://i9.ytimg.com/vi/pJ4aYTUjpME/mq3.jpg?sqp=CPLAsPYF&rs=AOn4CLC0S9iJjNZV4slR_Utv1_Z-p4NFGw)](https://youtu.be/pJ4aYTUjpME)
