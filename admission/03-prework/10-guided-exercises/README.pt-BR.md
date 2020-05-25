@@ -51,20 +51,16 @@ A seguir, Thaissa te explica como resolveu cada um dos exercícios anteriores.
 
 ### 1.  Idade em segundos
 
-[![Solution Age in
-Seconds](https://embed-ssl.wistia.com/deliveries/9d6c875fd50f8b845f6f6e8ec6ca2d471c6a49ff.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/a9x43umo91?wvideo=a9x43umo91)
+[![Exercícios Livres - Idade em segundos](https://i9.ytimg.com/vi/zCiZd0B5Iag/mq3.jpg?sqp=CM7bsPYF&rs=AOn4CLAfk1OoGO9VUBxIqzYIaYVH2d2sIw)](https://youtu.be/zCiZd0B5Iag)
 
 ### 2. Conversor de temperatura
 
-[![Solution Temperature
-converter](https://embed-ssl.wistia.com/deliveries/326565ee59de640f72cba3b9b227ef62d0a1b15a.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/ri4tobcdz5?wvideo=ri4tobcdz5)
+[![Exercícios Livres - Conversor de temperatura](https://i9.ytimg.com/vi/FIcCLCZFDxQ/mq2.jpg?sqp=COPdsPYF&rs=AOn4CLChRh42VcLzdzqNYB9ZnRdeEYijmg)](https://youtu.be/FIcCLCZFDxQ)
 
 ### 3. Ganhos e perdas
 
-[![Solution Earnings and
-loses](https://embed-ssl.wistia.com/deliveries/6cb92e318311cf2c730164f665c3ea4c5e0e7749.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/r92tdew4i6?wvideo=r92tdew4i6)
+[![Exercícios Livres -  Ganhos e perdas](https://i9.ytimg.com/vi/uFgo-mKGIBo/mq2.jpg?sqp=CKXesPYF&rs=AOn4CLDkvxEfuaA_KUfGImEk1NPEXfvCNQ)](https://youtu.be/uFgo-mKGIBo)
 
 ### 4. Iniciais
 
-[![Solution
-Initials](https://embed-ssl.wistia.com/deliveries/5bbc757fbad4eb09b79aa261a502e815c0a3c983.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f7b617e0)](https://laboratoria.wistia.com/medias/cn7vfs5x1e?wvideo=cn7vfs5x1e)
+[![Exercícios Livres - Iniciais](https://i9.ytimg.com/vi/_olc_RwexpE/mq2.jpg?sqp=CIXjsPYF&rs=AOn4CLA23xtfHtgfvxPHAg-no_LablhXDA)](https://youtu.be/_olc_RwexpE)
