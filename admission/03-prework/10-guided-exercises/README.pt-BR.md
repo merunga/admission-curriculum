@@ -51,16 +51,16 @@ A seguir, Thaissa te explica como resolveu cada um dos exercícios anteriores.
 
 ### 1.  Idade em segundos
 
-[![Exercícios Livres - Idade em segundos](https://i9.ytimg.com/vi/zCiZd0B5Iag/mq3.jpg?sqp=CM7bsPYF&rs=AOn4CLAfk1OoGO9VUBxIqzYIaYVH2d2sIw)](https://youtu.be/zCiZd0B5Iag)
+[![Exercícios Livres - Idade em segundos](https://img.youtube.com/vi/zCiZd0B5Iag/0.jpg)](https://youtu.be/zCiZd0B5Iag)
 
 ### 2. Conversor de temperatura
 
-[![Exercícios Livres - Conversor de temperatura](https://i9.ytimg.com/vi/FIcCLCZFDxQ/mq2.jpg?sqp=COPdsPYF&rs=AOn4CLChRh42VcLzdzqNYB9ZnRdeEYijmg)](https://youtu.be/FIcCLCZFDxQ)
+[![Exercícios Livres - Conversor de temperatura](https://img.youtube.com/vi/FIcCLCZFDxQ/0.jpg)](https://youtu.be/FIcCLCZFDxQ)
 
 ### 3. Ganhos e perdas
 
-[![Exercícios Livres -  Ganhos e perdas](https://i9.ytimg.com/vi/uFgo-mKGIBo/mq2.jpg?sqp=CKXesPYF&rs=AOn4CLDkvxEfuaA_KUfGImEk1NPEXfvCNQ)](https://youtu.be/uFgo-mKGIBo)
+[![Exercícios Livres -  Ganhos e perdas](https://img.youtube.com/vi/uFgo-mKGIBo/0.jpg)](https://youtu.be/uFgo-mKGIBo)
 
 ### 4. Iniciais
 
-[![Exercícios Livres - Iniciais](https://i9.ytimg.com/vi/_olc_RwexpE/mq2.jpg?sqp=CIXjsPYF&rs=AOn4CLA23xtfHtgfvxPHAg-no_LablhXDA)](https://youtu.be/_olc_RwexpE)
+[![Exercícios Livres - Iniciais](https://img.youtube.com/vi/_olc_RwexpE/0.jpg)](https://youtu.be/_olc_RwexpE)

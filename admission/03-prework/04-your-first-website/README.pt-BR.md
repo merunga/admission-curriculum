@@ -62,7 +62,7 @@ de você mesma criar uma página web e aprender HTML.
 A seguir um vídeo que explica o porquê você precisa de um editor de texto para
 os exercícios:
 
-[![Sua primeira página Web - part 1](https://i9.ytimg.com/vi/96usU1K0gwY/mq1.jpg?sqp=CLe5sPYF&rs=AOn4CLCOeDe8vrqppRmSllfVDHwJYNHvlA)](https://youtu.be/96usU1K0gwY)
+[![Sua primeira página Web - part 1](https://img.youtube.com/vi/96usU1K0gwY/0.jpg)](https://youtu.be/96usU1K0gwY)
 
 No próximo vídeo, você será guiada através dos seguintes passos para criar sua
 primeira página web:
@@ -79,7 +79,7 @@ primeira página web:
 
 Aqui o vídeo:
 
-[![Sua primeira página Web - part 2](https://i9.ytimg.com/vi/OR0tpt3zftA/mq1.jpg?sqp=CN-9sPYF&rs=AOn4CLCuN2xJqK_F8u_2CSzQiF_2Yl5jPg)](https://youtu.be/OR0tpt3zftA)
+[![Sua primeira página Web - part 2](https://img.youtube.com/vi/OR0tpt3zftA/0.jpg)](https://youtu.be/OR0tpt3zftA)
 
 ## Tags e elementos HTML
 
@@ -185,4 +185,4 @@ Os passos são os seguintes:
 
 A seguir o vídeo:
 
-[![Sua primeira página Web - part 3](https://i9.ytimg.com/vi/pJ4aYTUjpME/mq3.jpg?sqp=CPLAsPYF&rs=AOn4CLC0S9iJjNZV4slR_Utv1_Z-p4NFGw)](https://youtu.be/pJ4aYTUjpME)
+[![Sua primeira página Web - part 3](https://img.youtube.com/vi/pJ4aYTUjpME/0.jpg)](https://youtu.be/pJ4aYTUjpME)
