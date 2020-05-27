@@ -30,6 +30,10 @@ que você pode ver no vídeo a seguir:
 
 [![UX vs UI Design roles](https://img.youtube.com/vi/ft5TzxG-LAc/0.jpg)](https://www.youtube.com/watch?v=ft5TzxG-LAc&cc_lang_pref=es&cc_load_policy=1)
 
+_(Caso queira ativar a legenda automática. Clique no ícone de “Configurações” no
+canto direito do vídeo. Selecione "Legendas/CC", depois "Traduzir
+automaticamente" e marque “Português” ou o idioma que preferir.)_
+
 Agora, tente responder a estas perguntas:
 
 - Como é a personalidade de um UX Designer?

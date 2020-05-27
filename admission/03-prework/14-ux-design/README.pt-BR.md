@@ -19,6 +19,10 @@ usar o termo, explica o que é UX.
 
 [![UX](https://lh3.googleusercontent.com/NXXihcbIZBiywCDP7TVRfZwUTiLONFyi-XhYIoz-2-f7l9QamUVtsu7Vg6Snv9qOmTX28AS90Bh6eVnF-FWf0Ggvog-Vfj6eIfL6VTz5lf5avx00hvC13gdwy31_X-eoMvqkp-nYW7U)](https://www.youtube.com/watch?v=9BdtGjoIN4E&cc_lang_pref=es&cc_load_policy=1)
 
+_(Caso queira ativar a legenda automática. Clique no ícone de “Configurações” no
+canto direito do vídeo. Selecione "Legendas/CC", depois "Traduzir
+automaticamente" e marque “Português” ou o idioma que preferir.)_
+
 ## O que é UX?
 
 UX = User Experience são todas as experiências que vive/experimenta uma pessoa
@@ -47,6 +51,10 @@ dos negócios.
 Para entender um pouco mais sobre o processo de UX Design veja este vídeo:
 
 [![User Experience](https://lh5.googleusercontent.com/OHW33sLkmWQv1eljJlycGHozE-ozx6WXVE-rnYKOmke4hqXzXyKhD67dGEDw_ILwsyFMiYT29n4ECRatw5Gfd4tnjs8Q3HZh5nT8qZOiffp7HuLZSDA_IMzD5MoGqvI_2f71IfGOgG4)](https://www.youtube.com/watch?v=wmmVhVIxW-A)
+
+_(Caso queira ativar a legenda automática. Clique no ícone de “Configurações” no
+canto direito do vídeo. Selecione "Legendas/CC", depois "Traduzir
+automaticamente" e marque “Português” ou o idioma que preferir.)_
 
 ## Por que estamos aprendendo UX?
 

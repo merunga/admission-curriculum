@@ -75,6 +75,10 @@ Veja este vídeo sobre a mentalidade de crescimento (10 min)
 [![Video Growth
 Mindset](http://img.youtube.com/vi/pN34FNbOKXc/0.jpg)](http://www.youtube.com/watch?v=pN34FNbOKXc)
 
+_(Caso queira ativar a legenda automática. Clique no ícone de “Configurações” no
+canto direito do vídeo. Selecione "Legendas/CC", depois "Traduzir
+automaticamente" e marque “Português” ou o idioma que preferir.)_
+
 ## Desenvolvendo Growth Mindset (Mentalidade de crescimento)
 
 Você vai ver que a sua mentalidade pode mudar, porque embora nós sempre tenhamos
