@@ -435,11 +435,11 @@ semântica) é importante e mais simples do que parece. Ambos valores denotam da
 ausência de um valor, mas em um caso podemos dizer que é intencional (`null`) e
 o no outro não (`undefined`).
 
-O valor `undefined` signigica que não existe um valor designado, o que é
+O valor `undefined` significa que não existe um valor designado, o que é
 diferente de `null`, que significa que designamos o valor `null`. Este pode ser
-muito útil para diferenciar o estado em operações asíncronas: é comum que
+muito útil para diferenciar o estado em operações assíncronas: é comum que
 `undefined` signifique que a operação não foi completada, enquanto `null`
-signigica que completou mas o retorno é um valor nulo.
+significa que completou mas o retorno é um valor nulo.
 
 ### Conversão automática de tipo
 
