@@ -7,12 +7,12 @@ This repository holds the topics required for the admission process in spanish a
 `npm install`
 
 ---
-## Set Typeform IDs
+## Setup
 
-_Note:_ Before going ahead, have a look at [the admission documentation about typeform](https://github.com/Laboratoria/admission.laboratoria.la#typeform)
+_Note:_ Before going ahead, have a look at [the admission documentation about typeform](https://github.com/Laboratoria/admission.laboratoria.la#typeform).
 
 1. Copy `.typeformrc.example` file to `.typeformrc`
-2. Add all typeform ids inside `.typeformrc` file according the language and environment.
+2. Set the typeform ids in `.typeformrc` carefully
 
 The Typeform ids _required_ are:
 
@@ -23,7 +23,7 @@ The Typeform ids _required_ are:
   "TYPEFORM_ID_TESTS_PERSONALITY": "your-typeformid",
 ```
 
-> **Heads-up:** There are three environments available (development, staging and production) for different purposes and two languages (es-ES, pt-BR), make sure you are setting up the right ones.
+> **Heads-up:** There are two main keys: es-ES, pt-BR, for each available language, along with three sub-keys: development, staging and production, for each possible environment. Make sure you are setting up the right keys with the right values.
 
 ---
 ## Build 🏗
