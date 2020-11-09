@@ -28,20 +28,18 @@ The Typeform ids _required_ are:
 ---
 ## Build 🏗
 
-> **Important:** Make sure you are building the right content for your environment and language
+You can pass 2 arguments: `--env`, `--locale`
 
-You can pass 2 environment variables: `env`, `locale`
+- **--env** `development` | `staging` | `production`
+- **--locale** `es-ES` | `pt-BR`, default `es-ES`
 
-**`env`** : `development`, `staging`, `production`
-**`locale`**: `es-ES`, `pt-BR`
+The built topic will be stored in `build/*` folder
 
-By default `locale` takes the value `es-ES`
+**Example:**
 
-**For instance:**
-
-`npm run build -- --env=production --locale=pt-BR`
-
-The final content will be saved in `build/admission-pt.json` file
+```sh
+npm run build -- --env=production --locale=pt-BR # --> build/admission-pt.json
+```
 
 ---
 ## Testing 🧪
