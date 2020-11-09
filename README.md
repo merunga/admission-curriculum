@@ -53,14 +53,18 @@ The final content will be saved in `build/admission-pt.json` file
 ---
 ## Upload 🚀
 
-You can used any tool to upload the built topic (course), e.g: [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/) or if you love cli tools 🤟, I recommend using this [httpie](https://httpie.io/)
+Once the topic is built, the next step is creating a new topic by making a request to Laboratoria API so that the new topic is available to be used by any cohort. You can use any HTTP Client tool, e.g. [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/), or if you love cli tools 🤟, I recommend using [httpie](https://httpie.io/)
 
-_Note:_ You will need a json-token to authenticate before uploading. Get it by using `POST */auth` endpoint
+_Note:_ The endpoint to create new topics requires authentication as well as the admin role. So, you should get an auth token before.
 
-__To production__
+__Example using httpie__
 
-`POST https://api.laboratoria.la/topics`
+```sh
+# Authenticate to get a JWT (Json Web Token)
+http POST http://api.laboratoria.la/auth email=myemail@testing.com password=xxxxxxx
+```
 
-__To staging__
-
-`POST https://laboratoria-la-staging.firebaseapp.com/topics`
+```sh
+# Upload a built topic
+ http POST https://api.laboratoria.la/topics 'Authorization:Bearer <token>' < ./build/admission.json
+```
