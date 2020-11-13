@@ -3,12 +3,7 @@
   "version": "3.0.1",
   "description": "Topics used by the admission process @Laboratoria",
   "scripts": {
-    "prebuild": "npm run test",
-    "build": "node scripts/build.js",
-    "mdlint": "mdlint .",
-    "validate": "node scripts/validate.js",
-    "pretest": "npm run mdlint && npm run validate",
-    "test": "mocha './{,!(node_modules|build)/**/}*.spec.js'"
+    "build": "node scripts/build.js"
   },
   "repository": "Laboratoria/admission-curriculum",
   "keywords": [
@@ -22,7 +17,8 @@
     "url": "https://github.com/Laboratoria/admission-curriculum/issues"
   },
   "dependencies": {
-    "@laboratoria/curriculum-parser": "^2.5.0"
+    "@laboratoria/curriculum-parser": "^2.5.0",
+    "httpie": "^1.1.2"
   },
   "devDependencies": {
     "@laboratoria/mdlint": "^1.1.0",

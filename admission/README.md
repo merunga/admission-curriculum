@@ -58,11 +58,15 @@ por lo que al final del examen tenemos una mejor idea de tu talento y tu
 capacidad. ¡No tienes de qué preocuparte! No tienes que estudiar ni tener
 conocimientos previos de programación.
 
-### Unidad 03: [Pre-trabajo](03-prework)
+### Unidad 03: [Aprender a aprender](03-learn-to-learn)
 
 Bienvenida al curso en línea donde aprenderás conceptos básicos de programación
 y GrowthMindset. Podrás hacerlo a tu ritmo. Encontrarás quizzes y ejercicios
 prácticos que evalúan tu desempeño y habilidades de aprendizaje.
+
+### Unidad 04: [Intro UX](04-intro-ux)
+
+Intro ux.
 
 ## Evaluación
 
