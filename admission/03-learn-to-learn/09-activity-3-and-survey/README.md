@@ -1,3 +1,14 @@
+# Actividad 3 - Figma
+
+- Tipo: `lectura`
+- Formato: `self-paced`
+- Duración: `20min`
+
+## Objetivos de aprendizaje
+
+- TBD
+
+***
 # Figma
 
 - Tipo: `lectura`
@@ -144,3 +155,9 @@ pantallas de ejemplo hechas por nosotros.
 - [Figma Tutorial - Comprendiendo la interfaz](https://www.youtube.com/watch?v=lhhZBk19hKk )
 - [Figma Tutorial - ¿Cómo crear tu primera aplicación?](https://www.youtube.com/watch?v=FAjaUyDmrR0)
 - [Figma Tutorial - Creación de Prototipos](https://www.youtube.com/watch?v=DXxZZralZqw)
+
+
+
+[video actividad 3]()
+[figma](https://www.figma.com/community/file/913155604889108593)
+[form actividad 3](https://laboratoria.typeform.com/to/hTYwPoBV)
