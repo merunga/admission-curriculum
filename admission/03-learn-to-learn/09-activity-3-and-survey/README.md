@@ -17,6 +17,8 @@
 
 ***
 
+[video](https://www.loom.com/share/48ceea2986fc41c5b5c4f777bd138f9d)
+
 ## Intro
 
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
