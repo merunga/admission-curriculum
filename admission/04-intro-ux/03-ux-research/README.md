@@ -13,7 +13,7 @@ usuarios, para ello utilizamos diversas técnicas de investigación. Mira este
 video sobre de qué trata la etapa de investigación, por qué la hacemos y en
 qué técnicas nos enfocaremos para este curso.
 
-[video research](https://www.loom.com/share/29da079e2d72490b9ea14dfab059b091)
+[video research](https://youtu.be/P5tX1wQTm4k)
 
 ## Entrevistas
 

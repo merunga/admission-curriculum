@@ -15,7 +15,7 @@ tenemos que entender lo siguiente:
 Primero, que hay dos etapas principales, una de entendimiento y otra de
 construcción. En el siguiente video te explicamos un poco más sobre ellas:
 
-[video](https://www.loom.com/share/2f929cab55534291b133f1347c93c741)
+[video](https://youtu.be/fRvoSAm2Nrs)
 
 El primer diamante es la parte en la que entedemos el problema de negocio y
 también el problema de los usuarios. Esto a través de distintas técnicas.

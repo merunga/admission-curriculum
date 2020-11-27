@@ -1,23 +1,10 @@
-# Actividad 3 - Figma
+# Primer proyecto en Figma
 
 - Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `20min`
 
-## Objetivos de aprendizaje
-
-- TBD
-
 ***
-# Figma
-
-- Tipo: `lectura`
-- Formato: `self-paced`
-- Duración: `1h`
-
-***
-
-[video](https://www.loom.com/share/48ceea2986fc41c5b5c4f777bd138f9d)
 
 ## Intro
 
@@ -44,11 +31,10 @@ y crea una cuenta. Para usar Figma te recomendamos usar Google Chrome o Firefox.
 Para que vayas probando Figma y conociendo su interfaz vamos a hacer un
 ejercicio en el que replicarás en blanco y negro la interfaz de Instagram.
 
-Para ello, una vez que hayas creado tu cuenta vas a poder
-[crear tu sandbox](https://www.figma.com/community/file/911693804971710500),
-siguiendo las instrucciones del siguiente video:
+Mira el siguiente video [video](https://youtu.be/KugtEzPaP70).
 
-[video](https://www.loom.com/share/4cc78a72d4f04c9591157a4a8d99fef9)
+Luego que hayas creado tu cuenta vas a poder
+[crear tu sandbox](https://www.figma.com/community/file/913155604889108593).
 
 ### Elige el tipo de dispositivo
 
@@ -157,9 +143,3 @@ pantallas de ejemplo hechas por nosotros.
 - [Figma Tutorial - Comprendiendo la interfaz](https://www.youtube.com/watch?v=lhhZBk19hKk )
 - [Figma Tutorial - ¿Cómo crear tu primera aplicación?](https://www.youtube.com/watch?v=FAjaUyDmrR0)
 - [Figma Tutorial - Creación de Prototipos](https://www.youtube.com/watch?v=DXxZZralZqw)
-
-
-
-[video actividad 3]()
-[figma](https://www.figma.com/community/file/913155604889108593)
-[form actividad 3](https://laboratoria.typeform.com/to/hTYwPoBV)

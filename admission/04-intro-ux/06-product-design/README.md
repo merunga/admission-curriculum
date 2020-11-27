@@ -8,7 +8,8 @@
 
 ## Intro
 
-[video](https://www.loom.com/share/95bad02a2a2d47c3926353cf8c3dace2)
+[video](https://youtu.be/oyiIHa-yUT8)
+
 ## Wireframing
 
 Un wireframe es un esquema simplificado de baja fidelidad de tu producto. Puedes
