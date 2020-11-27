@@ -1,7 +1,8 @@
 # Reto
 
-- Tipo: `proyecto`
+- Tipo: `lectura`
 - Formato: `self-paced`
+- Duración: `5min`
 
 ## Objetivos de Aprendizaje
 
