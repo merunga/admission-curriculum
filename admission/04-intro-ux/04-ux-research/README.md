@@ -9,9 +9,10 @@
 ## Intro
 
 La primera parte del trabajo de diseño es entender lo que necesitan los
-usuarios, para ello utilizamos diversas técnicas de investigación. Mira este
-video sobre de qué trata la etapa de investigación, por qué la hacemos y en
-qué técnicas nos enfocaremos para este curso.
+usuarios, el primer diamante del modelo de doble diamante. Para ello, utilizamos
+diversas técnicas de investigación. Mira este video sobre de qué trata la etapa
+de investigación, por qué la hacemos y en qué técnicas nos enfocaremos para este
+proyecto.
 
 [video research](https://youtu.be/P5tX1wQTm4k)
 
@@ -134,6 +135,12 @@ el título es ese, el video va más allá de una simple entrevista, también tie
 componentes de observación y de testing.
 
 [La entrevista en 5 actos](https://www.youtube.com/watch?v=1jULaA68HS0)
+
+## Tareas
+
+En este video te contamos las tareas que tendrás que realizar para esta parte:
+
+[video](https://youtu.be/qMiOclsb0Lk)
 
 #### Recursos
 

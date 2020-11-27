@@ -6,118 +6,83 @@
 
 ***
 
-Bienvenida al tercer paso de tu proceso en la plataforma: el pre-trabajo. Debes
-sentirte muy orgullosa de estar dispuesta a invertir tu tiempo y esfuerzo para
-completar una de las etapas más importantes del proceso. Esta etapa consiste en
-realizar el curso **01. Introducción a la programación (con JavaScript)** de
-Laboratoria, que es el punto de inicio ideal para aprender a programar. Aquí
-empezamos desde cero, aprendiendo los fundamentos de JavaScript, el lenguaje de
-programación más popular del mundo.
+¡Hola! Bienvenida a la tercera etapa de tu proceso de selección: el **curso en
+línea.** Gracias por el interés en completar nuestro proceso y formar parte de
+nuestro programa. 
 
-Este curso es un paso fundamental del proceso de selección, pues nos permitirá
-comprobar tu interés por la tecnología, así como tu compromiso para pertenecer
-al programa. Además, analizaremos tu capacidad para aprender de manera individual
-e independiente.
+Nuestro objetivo en este curso es que como postulante, y ojalá en un futuro como
+estudiante, desarrolles una habilidad que te acompañará toda la vida: **aprender
+a aprender**. En Laboratoria creemos que desarrollar esta capacidad es mucho más
+importante que aprender cualquier herramienta de programación o técnica de
+diseño. Las estudiantes del bootcamp entienden el aprendizaje como un proceso
+permanente y se consideran aprendices de por vida. 
 
-La duración aproximada del curso es de 15-20 horas. Tú podrás avanzar a tu propio
-ritmo, pero te recomendamos organizarte con tiempo para que vayas haciéndolo poco
-a poco. El equipo de Laboratoria te comunicará las fechas de cierre para el
-pre-trabajo, no olvides anotarla y tenerla presente.
+Es por esto que en nuestro curso en línea empieza con una **unidad de aprender a
+aprender**, para que puedas comenzar a desarrollar esta habilidad desde tu
+postulación y que sea una herramienta que puedas usar en diferentes aspectos de
+tu vida, tanto para tu desarrollo personal como laboral.
 
-Para pasar a la siguiente etapa del proceso de selección es necesario que completes
-todo el pre-trabajo.
+En la **segunda unidad sobre UXD** (diseño de experiencia de usuario) realizarás
+un proyecto que te permitirá poner en práctica los conocimientos adquiridos en
+la unidad de aprender a aprender, buscando posibles soluciones a una
+problemática. Este proyecto te permitirá adquirir conocimientos y habilidades
+que te serán útiles en el desarrollo de una carrera como diseñadora de
+experiencia de usuario y en otros aspectos de tu desarrollo profesional.
 
-## Acompañamiento y puntos de apoyo
+### Por qué realizar un proyecto en tu proceso de selección
 
-Recuerda que no estás sola en este proceso. Te estaremos acompañando a cada paso
-a través de varios canales de apoyo a lo largo de tu proceso:
+Al bootcamp de Laboratoria no se viene a aprender “cursos” o “materias” o
+“tecnologías” o a acumular “conocimiento”, se viene a **aprender a trabajar**
+adquiriendo las habilidades y competencias básicas que una diseñadora de
+experiencia de usuario necesita para comenzar una carrera en una industria muy
+dinámica y cambiante.
 
-<!--
-## Descargar y cuentas
+En Laboratoria se aprende haciendo, bajo un modelo de **‘aprendizaje basado en
+proyectos’**. Cada proyecto simula una situación a las que te podrías enfrentar
+en el mundo real. 
 
-Para completar este curso, necesitarás descargar y crear cuentas de algunos
-servicios web. Antes de empezar, es necesario que:
+Cada unidad, tanto la de aprender a aprender como la de UXD, incluyen
+links/enlaces/ligas a contenidos que podrás utilizar como fuente para completar
+tu proyecto y seguir aprendiendo. También recuerda que siempre cuentas con
+Google, otras postulantes y el equipo de Laboratoria que te puede ofrecer tips,
+sugerencias y guía. Cómo afrontas este reto depende de ti. Utiliza todos los
+recursos que encuentres. Todo vale, siempre y cuando trabajes de manera honesta.
 
-1. Tengas una cuenta de Google (Gmail). Si no tienes, puedes crea una aquí:
-   https://accounts.google.com/SignUp?hl=es
-2. Tengas el navegador web Google Chrome. Si no lo tienes, puedes descargarlo
-   aquí: https://www.google.com/chrome/browser/desktop/index.html
-3. Crea una cuenta en Replit (un salón de clases virtual para aprender código):
-   https://repl.it/signup
-4. Crea una cuenta en GitHub (una plataforma de trabajo colaborativo para
-   programadores): https://github.com/join
-5. Descarga Atom (un editor de texto): https://atom.io/
+## Hitos a completar en el curso en línea
 
-Video de Michelle explicando las descargas:
+En el curso en línea vas a encontrar diferentes contenidos que te ayudarán a
+completar las siguientes entregas y evaluaciones:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TePHiOKb72k/0.jpg)]
-(https://www.youtube.com/watch?v=TePHiOKb72k)
--->
+- Unidad 1: Aprender a Aprender
+  * Entrega 1: Reflexión sobre habilidades complementarias 
+  * Entrega 2: Reflexión sobre la metacognición
+  * Entrega 3: Ejercicio en Figma sobre Instagram
+- Unidad 2: UX
+  * Entrega 1: Actividad de Research
+  * Quiz: cuestionario sobre UX Design
+  * Entrega 3: Actividad de Implementación
 
-### 1. Ayuda
+### Cronograma
 
-En la [sección de Ayuda](https://preguntas.laboratoria.la/postulantes-al-bootcamp)
-de esta misma plataforma, podrás encontrar "Preguntas y Respuestas Frecuentes",
-que podrán guiarte en caso que tengas dudas.
+Tienes hasta el 20 de diciembre para completar tu proceso de selección en la
+plataforma. Esto significa que debes haber realizado tu cuestionario de datos
+personales, tu test de personalidad y el curso en línea en su totalidad (con sus
+dos unidades: aprender a aprender y UXD).
 
-<!--
-### 2. Horas de consulta
+### Plataformas
 
-Cada sede de Laboratoria tiene horarios de consulta para que puedas visitarnos y
-recibir la ayuda de nuestro staff de profesores. Si no puedes asistir, no te
-preocupes, vamos a transmitir estas sesiones por Facebook Live para que puedas
-verlas en línea. Luego también subiremos los videos a los grupos para que puedas
-volver a verlos cuantas veces necesites.
-
-Las horas de consulta por sede son las siguientes:
-
-* Lima:
-  - Lunes 24 de julio de 6pm a 8pm, Av. José Pardo 601, oficina 1104, Miraflores.
-  - Lunes 31 de julio de 6pm a 8pm, Av. Benavides 1180, piso 7, Miraflores.
-* México. Avenida Insurgentes Sur # 253, Piso 2. Colonia Roma:
-  - Lunes 24 de julio de 5pm a 7pm.
-  - Miércoles 26 de julio de 5pm a 7pm.
-* Santiago de Chile. Puma 1180, Recoleta, Santiago de Chile:
-  - Jueves 20 de julio de 4pm a 6pm.
-  - Jueves 27 de julio de 4pm a 6pm.
-  - Martes 1 de agosto de 4pm a 6pm.
-* Guadalajara. Av. Adolfo López Mateos Sur 2077, Jardines de Plaza del Sol,
-  Guadalajara, Jal.
--->
-
-### 2. Correo
-
-Si no has podido resolver tus dudas y necesitas más información, puedes visitar
-nuestra página de [preguntas frecuentes](https://preguntas.laboratoria.la/postulantes-al-bootcamp)
-sobre el programa, también puedes escribirle al equipo de selección y del
-bootcamp, a través de postula@laboratoria.la
-
-## Sobre este curso
-
-### Objetivo del pre-trabajo
-
-El pre-trabajo es un curso en línea que está dirigido a personas sin conocimientos
-previos de programación y que tienen el interés de aventurarse al mundo del código.
-Será tu primer paso en la ruta de aprendizaje.
-
-El propósito de este curso es darte una idea de qué se trata el mundo del desarrollo
-de software, para que puedas determinar si es algo que te apasiona perseguir como
-profesión. Al terminar este curso sabrás si el código es lo tuyo y habrás sentado
-unas buenas bases para el desarrollo de tu carrera profesional en el mundo tech.
-
-### **Esto es lo que aprenderás al finalizar el curso:**
-
-* Lograrás tener un entendimiento de **qué es la programación** y por qué aprender
-  a programar.
-* Entenderás **qué es JavaScript** y por qué aprenderlo.
-* Tendrás un primer acercamiento al mundo del código, creando **tu primera**
-  **página web**.
-* Podrás darle dinamismo a tu web utilizando JavaScript.
-* Lograrás el manejo de algunos **conceptos básicos de programación** como: variables,
-  tipos datos y operadores.
+- Slack: Será nuestro "chat" durante este periodo de tiempo. En este chat podrás
+  escribirle a las otras postulantes y a personas de el equipo de Laboratoria.
+  Para entrar a esta plataforma, sigue los pasos de este [link](https://join.slack.com/t/laboratoria-space/shared_invite/zt-ja1zluif-Y1ZMVw1IUd2~~0EIpBsfGw).  
+  Deberás crearte una cuenta para poder participar. Una vez dentro de Slack,
+  busca el canal #conociendonos y ¡súmate!. Te invitamos a presentarte en este
+  canal para que el equipo y otras postulantes puedan conocerte.
+- Correo electrónico: también cualquier pregunta o problema en la plataforma nos
+ puedes escribir a postula@laboratoria.la
 
 ### Requerimientos previos
 
-Ningún conocimiento previo de programación es necesario para completar este
-curso. Está diseñado para principiantes.
+Ningún conocimiento previo de programación o diseño es necesario para completar
+este curso.
+
 

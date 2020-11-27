@@ -8,12 +8,18 @@
 
 ## Intro
 
+Durante tu trabajo como diseñadora navegarás y trabajarás siguiendo un proceso:
+_el proceso de diseño_. Aunque este proceso lo vas a ir adaptando a los
+requerimientos de distintos proyectos, siempre partirás de una base. En esta
+parte de la unidad conocerás la base de este proceso.
+
 El proceso de diseño se puede ver o graficar de distintas maneras. Una de las
 que más nos gusta es la del doble diamante. Para entender el doble diamante,
 tenemos que entender lo siguiente:
 
 Primero, que hay dos etapas principales, una de entendimiento y otra de
-construcción. En el siguiente video te explicamos un poco más sobre ellas:
+construcción o implementación. En el siguiente video te explicamos un poco más
+sobre ellas:
 
 [video](https://youtu.be/fRvoSAm2Nrs)
 
@@ -21,14 +27,14 @@ El primer diamante es la parte en la que entedemos el problema de negocio y
 también el problema de los usuarios. Esto a través de distintas técnicas.
 Algunas diseñadoras se refieren a este diamante como a la etapa de asegurarnos 
 que estamos resolviendo el problema correcto o haciendo lo correcto
-(_doing the right thing_), estamos creando un producto que le sea útil al
-usuario. Por otro lado, el siguiente diamante se refiere a
+(_doing the right thing_), es decir, estamos creando un producto que le sea útil
+al usuario. Por otro lado, el siguiente diamante se refiere a
 "hacer bien las cosas" (_doing the thing right_), en esta parte lo que
-buscamos es crear un producto usable, es decir que sea entendible y fácil de
+buscamos es crear un producto usable, es decir, que sea entendible y fácil de
 usar por quienes van a usarlo.
 
 Por ejemplo, piensa que estamos creando una aplicación de venta de comida por
-delivery. Probablemente, sea útil para muchos usuarios que por distintas
+delivery. Probablemente, sea _útil_ para muchos usuarios que por distintas
 razones tengan que pedir comida a sus hogares.
 
 Al diseñar esta aplicación, la primera parte del diamante se referiría a
@@ -42,19 +48,11 @@ Con esto definiríamos qué le es útil a un usuario en una app, para poder agre
 estas funciones o servicios en el app. 
 
 Una vez definido esto, viene la segunda parte, construir (o diseñar) la
-experiencia. Aquí lo que haríamos es hacer que el app que tenga las funciones
-necearias para el cliente, sea fácil de usar. Que las opciones sean fáciles de
-encontrar, que hacer un pago o comunicarse con un repartidor sea algo fácil
-y entendible. Para ello también hay ciertas técnicas que veremos más adelante.
-
-## La divergencia y la convergencia
-
-Hay momentos en el proceso de diseño en lo que buscamos la divergencia, las
-partes más "altas" de los diamantes, y hay otros momentos en los que buscamos
-la convergencia, las partes cerradas. Esto significa que a veces vamos a tener
-momentos de apertura donde lo que vale es el número, la generación de ideas o
-propuestas; y hay momentos en los que tenemos que priorizar y elegir una
-alternativa.
+experiencia. En esta etapa, lo que haríamos es hacer que el app que tenga las
+funciones necearias para el cliente, sea fácil de usar. Que las opciones sean
+fáciles de encontrar, que hacer un pago o comunicarse con un repartidor sea algo
+fácil y entendible. En otras palabras que la aplicación sea _usable_. Para ello
+también hay ciertas técnicas que veremos más adelante.
 
 ## Documentos adicionales
 
