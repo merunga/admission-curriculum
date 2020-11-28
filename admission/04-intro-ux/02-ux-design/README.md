@@ -47,7 +47,7 @@ Es común definir el éxito de un buen
 producto o servicio como la intersección entre _necesidades de los usuarios_,
 _necesidades del negocio_ y _factibilidad tecnológica_:
 
-[imagen círculos de UX](https://lh3.googleusercontent.com/wxrUaO8vqkQW0jb70jrBAcCgBJhRwffdlXVRf00VKY8IEJnr0btCeQ8HOKmGoQZ_QD9tNCLBC3Ke8EccXJ7riNKy1kSkQMOxADOW3GM3Py9HUXlucrlO9B_FA6xEbN5FGwWP0zrulFo)
+![imagen círculos de UX](https://lh3.googleusercontent.com/wxrUaO8vqkQW0jb70jrBAcCgBJhRwffdlXVRf00VKY8IEJnr0btCeQ8HOKmGoQZ_QD9tNCLBC3Ke8EccXJ7riNKy1kSkQMOxADOW3GM3Py9HUXlucrlO9B_FA6xEbN5FGwWP0zrulFo)
 
 _¿Por qué se ve el éxito de esa manera?_ Primero, porque si un producto no
 entiende las verdaderas necesidades de un usuario, este no usará ese producto.
