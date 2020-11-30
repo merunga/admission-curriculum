@@ -48,5 +48,8 @@ despensa. Anota las respuestas en un cuaderno o en tu sandbox en Figma.
 - ¿Por qué crees que hay gente que usa poco o nada un app o servicio de compras
   de un supermercado online?
 
-Cuando abras el sanndbox verás una lista de tareas que incluye este reto
+Cuando abras el sandbox verás una lista de tareas que incluye este reto
 y, según vayas avanzando con el contenido, podrás ir completando estas tareas.
+
+Ahora, elige un supermercado que haga ventas online o una aplicación que ofrezca
+ese servicio, así te podrás enfocar en ella a lo largo de este proyecto 🤓.

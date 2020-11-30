@@ -9,17 +9,12 @@
 ## Intro
 
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
-Puedes escuchar qué herramientas existen en este [episodio](https://ar.ivoox.com/es/06-herramientas-prototipado-audios-mp3_rf_13550881_1.html)
-de UXShot.
-
-### Por qué Figma
-
-Porque permite colaboración en tiempo real (el Google Docs del diseño visual).
-No es necesario tener una Mac ni descargar ningún software, ya que funciona en
-el navegador. Y es una herramienta gratuita! Durante el resto del curso y para
-el desarrollo del proyecto utilizaremos Figma. Así que te dejamos este contenido
-introductorio para ayudarte a empezar con Figma. Según avancemos en este
-proyecto irás entendiendo más de Figma.
+En Laboratoria, la usamos porque permite colaboración en tiempo real y se puede
+usar desde el navegador de cualquier computador (independientemente de su
+sistema operativo). Y, además, es una herramienta gratuita! Durante el resto del 
+curso y para el desarrollo del proyecto utilizaremos Figma. Así que te dejamos
+este ejercicio y contenido introductorio para ayudarte a empezar con Figma. Y
+para que vayas probando tu capacidad de aprender y las técnicas para ello.
 
 ### Crea una cuenta
 

@@ -60,7 +60,7 @@ completar las siguientes entregas y evaluaciones:
 - Unidad 2: UX
   * Entrega 1: Actividad de Research
   * Quiz: cuestionario sobre UX Design
-  * Entrega 3: Actividad de Implementación
+  * Entrega 2: Actividad de Implementación
 
 ### Cronograma
 
@@ -78,7 +78,7 @@ dos unidades: aprender a aprender y UXD).
   busca el canal #conociendonos y ¡súmate!. Te invitamos a presentarte en este
   canal para que el equipo y otras postulantes puedan conocerte. También serás
   añadida automáticamente a otros canales donde podrás hacer preguntas según
-  la etapa o unnidad en la que te encuentres. 
+  la etapa o unnidad en la que te encuentres.
 - Correo electrónico: también cualquier pregunta o problema en la plataforma nos
  puedes escribir a postula@laboratoria.la
 
