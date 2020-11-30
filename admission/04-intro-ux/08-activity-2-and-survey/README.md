@@ -1,4 +1,4 @@
-# Actividad 2
+# Entrega 2 UX
 
 - Tipo: `lectura`
 - Formato: `self-paced`

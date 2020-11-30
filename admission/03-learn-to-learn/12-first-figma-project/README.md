@@ -140,6 +140,6 @@ pantallas de ejemplo hechas por nosotros.
 
 ### Recursos adicionales
 
-- [Figma Tutorial - Comprendiendo la interfaz](https://www.youtube.com/watch?v=lhhZBk19hKk )
-- [Figma Tutorial - ¿Cómo crear tu primera aplicación?](https://www.youtube.com/watch?v=FAjaUyDmrR0)
-- [Figma Tutorial - Creación de Prototipos](https://www.youtube.com/watch?v=DXxZZralZqw)
+- [Figma Tutorial - Comprendiendo la interfaz](https://bit.ly/3lmSPzF)
+- [Figma Tutorial - ¿Cómo crear tu primera aplicación?](https://bit.ly/3mppxBB)
+- [Figma Tutorial - Creación de Prototipos](https://bit.ly/36omd4q)

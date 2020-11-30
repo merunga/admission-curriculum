@@ -1,5 +1,5 @@
-# Actividad 1
-
+# Entrega 1 UX
+ 
 - Tipo: `lectura`
 - Formato: `self-paced`
 - Duración: `20min`

@@ -13,5 +13,5 @@ Recursos:
 - En este [link](https://drive.google.com/file/d/1iCc_8GXdlWdD3CoHfvdpeCiIEz0TR5A3/view?usp=sharing)
   podrás encontrar las diapositivas del video para que puedas consultarlas
   cuando necesites.
-- [Vídeo Metacognición: Aprendiendo del aprendizaje](https://www.youtube.com/watch?v=E8klKdhNop8&feature=youtu.be)
+- [Vídeo Metacognición: Aprendiendo del aprendizaje](https://bit.ly/3fR0oO3)
  
