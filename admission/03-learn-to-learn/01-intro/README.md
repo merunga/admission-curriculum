@@ -76,7 +76,9 @@ dos unidades: aprender a aprender y UXD).
   Para entrar a esta plataforma, sigue los pasos de este [link](https://join.slack.com/t/laboratoria-space/shared_invite/zt-ja1zluif-Y1ZMVw1IUd2~~0EIpBsfGw).  
   Deberás crearte una cuenta para poder participar. Una vez dentro de Slack,
   busca el canal #conociendonos y ¡súmate!. Te invitamos a presentarte en este
-  canal para que el equipo y otras postulantes puedan conocerte.
+  canal para que el equipo y otras postulantes puedan conocerte. También serás
+  añadida automáticamente a otros canales donde podrás hacer preguntas según
+  la etapa o unnidad en la que te encuentres. 
 - Correo electrónico: también cualquier pregunta o problema en la plataforma nos
  puedes escribir a postula@laboratoria.la
 
