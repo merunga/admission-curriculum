@@ -1,4 +1,4 @@
-# Metacognición
+# Actividad 2 Metacognición
 
 - Tipo: `lectura`
 - Formato: `self-paced`

@@ -60,4 +60,4 @@ En el siguiente link puedes encontrar recursos adicionales con herramientas y
 actividades utilizadas en UX Design. En las siguientes unidades profundizaremos
 en ellas, pero puedes irlas mirando y probando.
 
-- [guía del proceso creativo](https://drive.google.com/open?id=1z7xAMMRKtTQbwMJ-mUhcDKwWbdN1x04P)
+- [Guía del proceso creativo](https://drive.google.com/open?id=1z7xAMMRKtTQbwMJ-mUhcDKwWbdN1x04P)

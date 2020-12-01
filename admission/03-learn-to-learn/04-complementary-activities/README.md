@@ -1,4 +1,4 @@
-# Actividades complemetarias
+# Actividad 1 Habilidades complemetarias
 
 - Tipo: `lectura`
 - Formato: `self-paced`
