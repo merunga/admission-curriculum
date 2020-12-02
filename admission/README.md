@@ -64,7 +64,8 @@ Bienvenida al curso en línea donde aprenderás conceptos básicos de programaci
 y GrowthMindset. Podrás hacerlo a tu ritmo. Encontrarás quizzes y ejercicios
 prácticos que evalúan tu desempeño y habilidades de aprendizaje.
 
-### Unidad 04: [Intro UX](04-intro-ux)
+### Unidad 04: [Introducción al diseño de experiencia de usuario (UX)
+](04-intro-ux)
 
 Intro ux.
 

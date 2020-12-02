@@ -53,7 +53,7 @@ recursos que encuentres. Todo vale, siempre y cuando trabajes de manera honesta.
 En el curso en línea vas a encontrar diferentes contenidos que te ayudarán a
 completar las siguientes entregas y evaluaciones:
 
-- Unidad 1: Aprender a Aprender
+- Unidad 1: Aprender a aprender
   * Entrega 1: Reflexión sobre habilidades complementarias 
   * Entrega 2: Reflexión sobre la metacognición
   * Entrega 3: Ejercicio en Figma sobre Instagram
@@ -67,7 +67,8 @@ completar las siguientes entregas y evaluaciones:
 Tienes hasta el 20 de diciembre para completar tu proceso de selección en la
 plataforma. Esto significa que debes haber realizado tu cuestionario de datos
 personales, tu test de personalidad y el curso en línea en su totalidad (con sus
-dos unidades: aprender a aprender y UXD).
+dos unidades: aprender a aprender e introducción al diseño de experiencia de
+usuario).
 
 ### Plataformas
 

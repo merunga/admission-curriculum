@@ -8,10 +8,13 @@
 
 [video](https://youtu.be/lP7ZO5TL7zk)
 
-Recursos: 
+Recursos:
 
-- En este [link](https://drive.google.com/file/d/1iCc_8GXdlWdD3CoHfvdpeCiIEz0TR5A3/view?usp=sharing)
-  podrás encontrar las diapositivas del video para que puedas consultarlas
-  cuando necesites.
-- [Vídeo Metacognición: Aprendiendo del aprendizaje](https://bit.ly/3fR0oO3)
- 
+En este [link](https://drive.google.com/file/d/1iCc_8GXdlWdD3CoHfvdpeCiIEz0TR5A3/view?usp=sharing)
+podrás encontrar las diapositivas del video para que puedas consultarlas cuando
+necesites.
+
+Si te interesa saber más sobre la metacognición, te recomendamos 
+
+- [Vídeo Metacognición: Aprendiendo del aprendizaje](https://bit.ly/3fR0oO3),
+  Paul Andersen, un consultor educacional de EEUU.

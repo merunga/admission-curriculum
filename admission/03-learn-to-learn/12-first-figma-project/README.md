@@ -1,4 +1,4 @@
-# Primer proyecto en Figma
+# Actividad 3: Instagram en Figma
 
 - Tipo: `lectura`
 - Formato: `self-paced`
@@ -11,7 +11,7 @@
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
 En Laboratoria, la usamos porque permite colaboración en tiempo real y se puede
 usar desde el navegador de cualquier computador (independientemente de su
-sistema operativo). Y, además, es una herramienta gratuita! Durante el resto del 
+sistema operativo). ¡Y, además, es una herramienta gratuita! Durante el resto del 
 curso y para el desarrollo del proyecto utilizaremos Figma. Así que te dejamos
 este ejercicio y contenido introductorio para ayudarte a empezar con Figma. Y
 para que vayas probando tu capacidad de aprender y las técnicas para ello.

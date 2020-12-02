@@ -1,4 +1,4 @@
-# Flujo Habilidades 
+# Flujo para desarrollar habilidades
 
 - Tipo: `lectura`
 - Formato: `self-paced`
