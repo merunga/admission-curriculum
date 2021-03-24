@@ -6,4 +6,4 @@
 
 ***
 
-[video técnicas](https://youtu.be/K1xzd-G26aI)
+[video técnicas](https://youtu.be/eyfr4iJHZ94)

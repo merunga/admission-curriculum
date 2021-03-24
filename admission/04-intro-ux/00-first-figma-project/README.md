@@ -1,4 +1,4 @@
-# Actividad 3: Instagram en Figma
+# Actividad introductoria: Instagram en Figma
 
 - Tipo: `lectura`
 - Formato: `self-paced`
@@ -6,7 +6,7 @@
 
 ***
 
-## Intro
+## Actividad introductoria - conoce Figma.
 
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
 En Laboratoria, la usamos porque permite colaboración en tiempo real y se puede
