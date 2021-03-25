@@ -1,4 +1,4 @@
-# Entrega UX
+# Entrega 3: proyecto UX
 
 - Tipo: `lectura`
 - Formato: `self-paced`

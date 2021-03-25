@@ -1,4 +1,4 @@
-# Entendimiento del usuario
+# El primer diamante: entendimiento del usuario
 
 - Tipo: `lectura`
 - Formato: `self-paced`

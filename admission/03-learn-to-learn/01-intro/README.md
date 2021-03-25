@@ -54,13 +54,12 @@ En el curso en línea vas a encontrar diferentes contenidos que te ayudarán a
 completar las siguientes entregas y evaluaciones:
 
 - Unidad 1: Aprender a aprender
-  * Entrega 1: Reflexión sobre habilidades complementarias 
-  * Entrega 2: Reflexión sobre la metacognición
-  * Entrega 3: Ejercicio en Figma sobre Instagram
+  * Entrega 1: Reflexión sobre aprender a aprender
+  
 - Unidad 2: UX
-  * Entrega 1: Actividad de Research
+  * Entrega 2: Ejercicio en Figma
   * Quiz: cuestionario sobre UX Design
-  * Entrega 2: Actividad de Implementación
+  * Entrega 3: Actividad de Implementación
 
 ### Cronograma
 

@@ -1,4 +1,4 @@
-# Reto
+# Proyecto
 
 - Tipo: `lectura`
 - Formato: `self-paced`

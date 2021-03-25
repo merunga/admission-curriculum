@@ -6,7 +6,7 @@
 
 ***
 
-## Actividad introductoria - conoce Figma.
+## Figma
 
 Figma es una de las muchas herramientas de diseño y prototipado que existen.
 En Laboratoria, la usamos porque permite colaboración en tiempo real y se puede

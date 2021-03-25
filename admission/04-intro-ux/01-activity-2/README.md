@@ -1,4 +1,4 @@
-# Entrega 3
+# Entrega 2
 
 - Tipo: `lectura`
 - Formato: `self-paced`

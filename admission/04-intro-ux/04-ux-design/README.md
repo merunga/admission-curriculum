@@ -1,4 +1,4 @@
-# UX Design
+# Qué es UX Design
 
 - Tipo: `lectura`
 - Formato: `self-paced`
