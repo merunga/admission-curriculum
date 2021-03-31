@@ -61,14 +61,6 @@ completar las siguientes entregas y evaluaciones:
   * Quiz: cuestionario sobre UX Design
   * Entrega 3: Actividad de Implementación
 
-### Cronograma
-
-Tienes hasta el 20 de diciembre para completar tu proceso de selección en la
-plataforma. Esto significa que debes haber realizado tu cuestionario de datos
-personales, tu test de personalidad y el curso en línea en su totalidad (con sus
-dos unidades: aprender a aprender e introducción al diseño de experiencia de
-usuario).
-
 ### Plataformas
 
 - Slack: Será nuestro "chat" durante este periodo de tiempo. En este chat podrás
