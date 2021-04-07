@@ -1,4 +1,4 @@
-# Valores, tipos de datos y operadores
+# Pre-aprendizajes: HTML imprescindible
 
 - Tipo: `lectura`
 - Formato: `self-paced`

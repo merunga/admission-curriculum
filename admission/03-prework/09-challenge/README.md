@@ -1,4 +1,4 @@
-# Bienvenida y orientación
+# Reto: Tu primera página
 
 * Tipo: `lectura`
 * Formato: `self-paced`

@@ -1,4 +1,4 @@
-# Valores, tipos de datos y operadores
+# Pre-aprendizajes: CSS imprescindible
 
 - Tipo: `lectura`
 - Formato: `self-paced`

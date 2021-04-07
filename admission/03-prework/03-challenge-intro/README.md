@@ -1,4 +1,4 @@
-# Tu primer sitio web
+# Intro al Reto: Tu primer sitio web
 
 - Tipo: `lectura`
 - Formato: `self-paced`
