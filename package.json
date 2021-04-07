@@ -1,6 +1,6 @@
 {
   "name": "admission-curriculum",
-  "version": "3.0.2",
+  "version": "4.0.0",
   "description": "Topics used by the admission process @Laboratoria",
   "scripts": {
     "prebuild": "npm run test",
