@@ -1,6 +1,6 @@
 # Pre-aprendizajes: HTML imprescindible
 
-- Tipo: `lectura`
+- Tipo: `practice`
 - Formato: `self-paced`
 - Duración: `60min`
 

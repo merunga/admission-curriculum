@@ -1,6 +1,6 @@
 # Ejercicios Guiados
 
-- Tipo: `práctica`
+- Tipo: `practice`
 - Formato: `self-paced`
 - Duración: `60min`
 
@@ -37,31 +37,3 @@ Los proyectos a crear son:
    "AM". "Michelle Seguil" y "michelle seguil" devuelven "MS".
 
 ***
-
-## Solucionarios
-
-A continuación, Michelle te explica cómo resolvió cada uno de los ejercicios
-anteriores.
-
-> NOTA: En los siguientes videos Michelle hace uso de `var` en vez de `let` y
-> `const` para declarar variables, así como otras _características_ un poco
-> _antiguas_ de JavaScript. Estas son válidas y parte del lenguaje, aunque hoy
-> en día preferiríamos usar _características/features_ más modernos y apropiados
-> como es el caso de `let` y `const`. En este caso estos videos se grabaron hace
-> ya un tiempo... ;-)
-
-### 1. Edad en segundos
-
-[![Solution Age in Seconds](https://i.ytimg.com/vi/1IZT_7EfRMw/0.jpg)](https://www.youtube.com/watch?v=1IZT_7EfRMw)
-
-### 2. Convertidor de temperatura
-
-[![Solution Temperature converter](https://i.ytimg.com/vi/Ix6VLiBcABw/0.jpg)](https://www.youtube.com/watch?v=Ix6VLiBcABw)
-
-### 3. Ganancias y pérdidas
-
-[![Solution Earnings and loses](https://i.ytimg.com/vi/2WtBw8eC0us/0.jpg)](https://www.youtube.com/watch?v=2WtBw8eC0us)
-
-### 4. Iniciales
-
-[![Solution Initials](https://i.ytimg.com/vi/E5ozw3b6iM4/0.jpg)](https://www.youtube.com/watch?v=E5ozw3b6iM4)
