@@ -1,0 +1,18 @@
+{
+  "name": "02-restaurant-bill",
+  "version": "1.0.0",
+  "description": "a program to calculate the final bill each has to pay",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --verbose --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
