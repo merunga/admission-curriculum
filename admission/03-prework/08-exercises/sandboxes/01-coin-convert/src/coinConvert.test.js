@@ -1,5 +1,5 @@
 const Assert = require('chai').assert;
-const coinConvert = require('../src/coinConvert');
+const coinConvert = require('./coinConvert');
 
 describe('coinConvert()', () => {
   it('debería retornar [162.5, 900, 33000], para $50', () => {

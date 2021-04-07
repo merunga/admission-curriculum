@@ -1,9 +1,9 @@
 const restaurantBill = (cuenta) => {
-  const impuesto = /* ??? */
+  const impuesto = /* ??? */;
 
   /* ??? */
 
-  return /* ??? */
+  return /* ??? */;
 };
 
 module.exports = restaurantBill;

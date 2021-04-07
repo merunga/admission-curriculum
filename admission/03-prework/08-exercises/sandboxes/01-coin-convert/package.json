@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha --verbose --coverage"
+    "test": "mocha --verbose --coverage --file src/coinConvert.test.js"
   },
   "author": "",
   "license": "ISC",
