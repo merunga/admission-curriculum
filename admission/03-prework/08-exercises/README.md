@@ -23,6 +23,6 @@ Los proyectos a crear son:
    cuenta en un restaurante y la cantidad de personas que van a repartir la
    cuenta, agregue un 10% de propina y retorne el importe que le corresponde
    a cada persona.
-   [Comenzar](https://lab.cs50.io/merunga/admission-curriculum/rediseno-prework-fe/admission/03-prework/07-guided-exercises/sandboxes/02-restaurant-bill/)
+   [Comenzar](https://lab.cs50.io/merunga/admission-curriculum/rediseno-prework-fe/admission/03-prework/08-exercises/sandboxes/02-restaurant-bill/)
 
 ***
