@@ -1,6 +1,4 @@
-# Javascript basics
-
-# Valores, tipos de datos y operadores
+# Javascript basics: Valores, tipos de datos y operadores
 
 - Tipo: `lectura`
 - Formato: `self-paced`
